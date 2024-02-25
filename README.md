@@ -1,1 +1,1 @@
-# Customer_Personality_Clustering_in_R
+## Analysis of customer characteristics focused of distinguishing and describing homogenous customer segments throught K-Means clustering with the use of Principal Component Analysis.
